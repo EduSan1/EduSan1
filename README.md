@@ -8,12 +8,12 @@
 <p> - 🎯 Em busca de um emprego para ganhar experiência profissional. </p>
 <p> - 📓 Quero me tornar um grande programador e trabalhar em meu proprio projeto um dia. </p>
 <p> - 😄 Pronomes: Ele/Dele. </p>
-    <img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 🌐 São Paulo - SP. </p>
+<img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 🎮 muito fã de jogos, principalmente os de computador. Hollow Night 🥰. </p>
 <p> - 🗾 Gosto muito de animes também, meu favorito é Haikyuu!! 🏐. </p>
 <p> - 🎵 Escuto todo tipo de musica, mas a que mais me marcou foi <a href="https://www.youtube.com/watch?v=2rYEZaJ6gWk">Bastille - Things We Lost In The Fire</a> por conta deste video.
-<p> - 🤯 Sabia que o dia do programador(13 de Setembro) é comemorado no 256º dia do ano? 
+<p> - 🤯 Sabia que o dia do programador(13 de Setembro) é comemorado no 256º dia do ano?!
   
 </div>
 
