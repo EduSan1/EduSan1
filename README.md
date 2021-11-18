@@ -3,11 +3,12 @@
 ### Sobre mim!
 <div style="display: inline_block"  >
   
-  <img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
+  
 <p> - ✒️ Estudante de Desenvolvimento de Sistemas no Senai, atualmente no primeiro semestre. </p>
 <p> - 🎯 Em busca de um emprego para ganhar experiência profissional. </p>
 <p> - 📓 Quero me tornar um grande programador e trabalhar em meu proprio projeto um dia. </p>
 <p> - 😄 Pronomes: Ele/Dele. </p>
+    <img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 🌐 São Paulo - SP. </p>
 <p> - 🎮 muito fã de jogos, principalmente os de computador. Hollow Night 🥰. </p>
 <p> - 🗾 Gosto muito de animes também, meu favorito é Haikyuu!! 🏐. </p>
