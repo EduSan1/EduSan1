@@ -4,8 +4,8 @@
 <div style="display: inline_block"  >
   
   
-<p> - ✒️ Estudante de Desenvolvimento de Sistemas no Senai, atualmente no primeiro semestre. </p>
-<p> - 🎯 Em busca de um emprego para ganhar experiência profissional. </p>
+<p> - ✒️ Estudante de Desenvolvimento de Sistemas no Senai, atualmente no segundo semestre. </p>
+<p> - 🎯 Estagiário do núcleo de Tecnologia do SENAI de Jandira </p>
 <p> - 📓 Quero me tornar um grande programador e trabalhar em meu proprio projeto um dia. </p>
 <p> - 😄 Pronomes: Ele/Dele. </p>
 <p> - 🌐 São Paulo - SP. </p>
