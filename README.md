@@ -12,7 +12,7 @@
 <img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 🎮 muito fã de jogos, principalmente os de computador. Hollow Night 🥰. </p>
 <p> - 🗾 Gosto muito de animes também, meu favorito é Haikyuu!! 🏐. </p>
-<p> - 🎵 Escuto todo tipo de musica, mas a que mais me marcou foi <a href="https://www.youtube.com/watch?v=2rYEZaJ6gWk">Bastille - Things We Lost In The Fire</a> por conta adultos jogando dadinhos e chorando.
+<p> - 🎵 Escuto todo tipo de musica, mas a que mais me marcou foi <a href="https://www.youtube.com/watch?v=2rYEZaJ6gWk">Bastille - Things We Lost In The Fire</a> por conta de adultos jogando dadinhos e chorando.
   
 </div>
 
