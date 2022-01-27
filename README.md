@@ -7,9 +7,9 @@
 <p> - ✒️ Estudante de Desenvolvimento de Sistemas no Senai, atualmente no segundo semestre. </p>
 <p> - 🎯 Estagiário do núcleo de Tecnologia do SENAI de Jandira </p>
 <p> - 📓 Quero me tornar um grande programador e trabalhar em meu proprio projeto um dia. </p>
+  <img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 😄 Pronomes: Ele/Dele. </p>
 <p> - 🌐 São Paulo - SP. </p>
-<img src="https://i1.wp.com/media.giphy.com/media/NfBQ73MtvPJS/source.gif?resize=500%2C281&ssl=1" width="400px" align="right">
 <p> - 🎮 muito fã de jogos, principalmente os de computador. Hollow Night 🥰. </p>
 <p> - 🗾 Gosto muito de animes também, meu favorito é Haikyuu!! 🏐. </p>
 <p> - 🎵 Escuto todo tipo de musica, mas a que mais me marcou foi <a href="https://www.youtube.com/watch?v=2rYEZaJ6gWk">Bastille - Things We Lost In The Fire</a> por conta de adultos jogando dadinhos e chorando.
